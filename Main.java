@@ -32,7 +32,9 @@ public class Main {
         for(Point point: polygon) {
             System.out.println(point.toString());
         }
+
     }
+
 }
 
 
