@@ -9,3 +9,5 @@
 
 Выходные данные:
 Упорядоченный список координат точек на плоскости для последовательного соединения в ломанную линию.
+
+[![Build Status](https://travis-ci.org/AgentSir/Polygon.svg?branch=master)](https://travis-ci.org/AgentSir/Polygon)
